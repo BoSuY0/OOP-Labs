@@ -1,0 +1,22 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+lab*
+main
+!main.cpp
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Word documents (reports) — exclude from repo
+*.docx
+*.pdf
